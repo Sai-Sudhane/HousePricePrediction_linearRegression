@@ -21,4 +21,4 @@ This project was a fantastic opportunity to apply machine learning techniques to
 
 Big thanks to team Bharat Intern for providing such an opportunity. If you're interested in learning more about our process or the details of the project, feel free to reach out! 🚀
 
-#MachineLearning #LinearRegression #ProjectWork #RealEstate #Bharatintern
+#MachineLearning #LinearRegression #ProjectWork #RealEstate #bharatintern
