@@ -5,10 +5,20 @@ I'm thrilled to share the results of a recent machine learning project I've been
 
 🔹 Dataset:HousePricePrediction.csv
 🔹 Key Contributions: Data preprocessing, model training, and evaluation
-🔹 Results: [Mention any significant results or insights gained]
+🔹 Results: 1.Insights
+2.Key Factors
+3.Market Trends
+4.Location Impact
+5.Feature Importance
+6.Size Matters
+7.Outliers Detected
+8.Model Performance
+9.Data Quality
+10.Market Segmentation
+11.Business Implications
 
 This project was a fantastic opportunity to apply machine learning techniques to a real-world problem. I learned a lot about data preprocessing, model selection, and evaluation metrics along the way.
 
-Big thanks to my amazing team for their support and collaboration on this project. If you're interested in learning more about our process or the details of the project, feel free to reach out! 🚀
+Big thanks to team Bharat Intern for providing such an opportunity. If you're interested in learning more about our process or the details of the project, feel free to reach out! 🚀
 
-#DataScience #MachineLearning #LinearRegression #DataAnalysis #ProjectWork #RealEstate #LinkedInProject
+#MachineLearning #LinearRegression #ProjectWork #RealEstate #Bharatintern
